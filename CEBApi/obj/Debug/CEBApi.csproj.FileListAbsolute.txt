@@ -1,0 +1,135 @@
+D:\Dev\CEBApi\CEBApi\bin\CEBApi.dll.config
+D:\Dev\CEBApi\CEBApi\bin\CEBApi.dll
+D:\Dev\CEBApi\CEBApi\bin\CEBApi.pdb
+D:\Dev\CEBApi\CEBApi\bin\roslyn\csc.exe
+D:\Dev\CEBApi\CEBApi\bin\roslyn\csc.exe.config
+D:\Dev\CEBApi\CEBApi\bin\roslyn\csc.rsp
+D:\Dev\CEBApi\CEBApi\bin\roslyn\csi.exe
+D:\Dev\CEBApi\CEBApi\bin\roslyn\csi.exe.config
+D:\Dev\CEBApi\CEBApi\bin\roslyn\csi.rsp
+D:\Dev\CEBApi\CEBApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dev\CEBApi\CEBApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dev\CEBApi\CEBApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.AppContext.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.Console.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.Diagnostics.Process.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.IO.Compression.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.IO.FileSystem.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.IO.Pipes.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.Security.AccessControl.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.Security.Claims.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.Threading.Thread.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.ValueTuple.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.Xml.XPath.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Dev\CEBApi\CEBApi\bin\roslyn\vbc.exe
+D:\Dev\CEBApi\CEBApi\bin\roslyn\vbc.exe.config
+D:\Dev\CEBApi\CEBApi\bin\roslyn\vbc.rsp
+D:\Dev\CEBApi\CEBApi\bin\roslyn\VBCSCompiler.exe
+D:\Dev\CEBApi\CEBApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Dev\CEBApi\CEBApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dev\CEBApi\CEBApi\bin\Newtonsoft.Json.dll
+D:\Dev\CEBApi\CEBApi\bin\System.Net.Http.Formatting.dll
+D:\Dev\CEBApi\CEBApi\bin\System.Web.Http.dll
+D:\Dev\CEBApi\CEBApi\bin\System.Web.Http.WebHost.dll
+D:\Dev\CEBApi\CEBApi\bin\Newtonsoft.Json.xml
+D:\Dev\CEBApi\CEBApi\bin\System.Net.Http.Formatting.xml
+D:\Dev\CEBApi\CEBApi\bin\System.Web.Http.xml
+D:\Dev\CEBApi\CEBApi\bin\System.Web.Http.WebHost.xml
+D:\Dev\CEBApi\CEBApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dev\CEBApi\CEBApi\obj\Debug\CEBApi.csprojAssemblyReference.cache
+D:\Dev\CEBApi\CEBApi\obj\Debug\CEBApi.csproj.CoreCompileInputs.cache
+D:\Dev\CEBApi\CEBApi\obj\Debug\CEBApi.csproj.CopyComplete
+D:\Dev\CEBApi\CEBApi\obj\Debug\CEBApi.dll
+D:\Dev\CEBApi\CEBApi\obj\Debug\CEBApi.pdb
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\CEBApi.dll.config
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\CEBApi.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\CEBApi.pdb
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\csc.exe
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\csc.exe.config
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\csc.rsp
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\csi.exe
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\csi.exe.config
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\csi.rsp
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.AppContext.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.Console.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.Diagnostics.Process.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.IO.Compression.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.IO.Pipes.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.Security.AccessControl.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.Security.Claims.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.Threading.Thread.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.ValueTuple.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\vbc.exe
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\vbc.exe.config
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\vbc.rsp
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\VBCSCompiler.exe
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\Newtonsoft.Json.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\System.Net.Http.Formatting.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\System.Web.Cors.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\System.Web.Http.Cors.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\System.Web.Http.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\System.Web.Http.WebHost.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\System.Net.Http.Formatting.xml
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\System.Web.Http.xml
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\System.Web.Http.Cors.xml
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\Newtonsoft.Json.xml
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\System.Web.Http.WebHost.xml
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\obj\Debug\CEBApi.csprojAssemblyReference.cache
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\obj\Debug\CEBApi.csproj.CoreCompileInputs.cache
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\obj\Debug\CEBApi.csproj.CopyComplete
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\obj\Debug\CEBApi.dll
+D:\Documents\Cmpz\Group Project\CEBApi\CEBApi\obj\Debug\CEBApi.pdb

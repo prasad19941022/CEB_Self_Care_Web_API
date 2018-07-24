@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CEBApi", "CEBApi\CEBApi.csproj", "{6118165F-F7E0-47DC-900F-31A03C31E988}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6118165F-F7E0-47DC-900F-31A03C31E988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6118165F-F7E0-47DC-900F-31A03C31E988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6118165F-F7E0-47DC-900F-31A03C31E988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6118165F-F7E0-47DC-900F-31A03C31E988}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {762B706F-D9EC-43CA-A05B-58D5338D2EA4}
+	EndGlobalSection
+EndGlobal
